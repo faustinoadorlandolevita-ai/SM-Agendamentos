@@ -1,0 +1,7 @@
+{
+  "name": "FaustoSystem - Business Management",
+  "description": "A comprehensive business management system for scheduling, clients, staff, and billing, featuring an AI-powered insights assistant.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
